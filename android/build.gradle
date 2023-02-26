@@ -135,4 +135,4 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
 }
 
-implementation files('../../node_modules/react-native-star-io10/android/src/lib/stario10.aar')
+// implementation files('../../node_modules/react-native-star-io10/android/src/lib/stario10.aar')
